@@ -1,6 +1,7 @@
 // WORK DONE BY : SOUBIH Meriem || GROUP 8 || L2
 
 public class Point {
+    
     private float x;
     private float y;
 
