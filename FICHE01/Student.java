@@ -1,4 +1,4 @@
-// WORK DONE BY : SOUBIH Meriem || GROUP 8 || L2
+
 
 // FIRST EXERCIE : making a class Student with 3 attributes (matricule, name, speciality) and 2 constructors
 

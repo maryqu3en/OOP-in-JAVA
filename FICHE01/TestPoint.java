@@ -1,4 +1,4 @@
-// WORK DONE BY : SOUBIH Meriem || GROUP 8 || L2
+
 
 public class TestPoint {
     public static void main(String[] args) {

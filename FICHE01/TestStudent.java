@@ -1,4 +1,4 @@
-// WORK DONE BY : SOUBIH Meriem || GROUP 8 || L2
+
 
 // SECOND EXERCIE : making a class TestStudent to test and explain obtained results
 
