@@ -7,7 +7,8 @@ public class Book extends Document {
         this.author = author;
         this.editor = editor;
     }
-    
+
+    @Override
     public void display() {
         System.out.println("Title: " + title);
         System.out.println("Author: " + author);

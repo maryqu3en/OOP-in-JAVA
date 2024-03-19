@@ -23,17 +23,4 @@ public class Library {
             }
         }
     }
-
-    public static void main(String[] args) {
-        Library lib = new Library(3);
-        Document doc1 = new Document("Doc1");
-        Document doc2 = new Document("Doc2");
-        Document doc3 = new Document("Doc3");
-        Document doc4 = new Document("Doc4");
-        lib.addDocument(doc1);
-        lib.addDocument(doc2);
-        lib.addDocument(doc3);
-        lib.addDocument(doc4);
-        lib.listing();
-    }
 }

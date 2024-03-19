@@ -1,6 +1,6 @@
 public class Document {
     String title;
-    static int count = 0;
+      int count = 0;
     
     public Document(String title) {
         this.title = title;
@@ -11,6 +11,7 @@ public class Document {
         count++;
     }
 
+    
     public void display() {
         System.out.println("Title: " + title);
     }

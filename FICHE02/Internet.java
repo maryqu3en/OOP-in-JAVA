@@ -6,6 +6,7 @@ public class Internet extends Document {
         this.url = url;
     }
     
+    @Override
     public void display() {
         System.out.println("Title: " + title);
         System.out.println("URL: " + url);
